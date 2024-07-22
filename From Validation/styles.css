@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 120px;
+    align-items: center;
+    justify-content: center;
+}
+
+form {
+    max-width: 400px;
+    margin: auto;
+}
+
+div {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+.error {
+    color: red;
+    font-size: 0.9em;
+}
